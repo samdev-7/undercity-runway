@@ -1,15 +1,14 @@
 Item name,Quantity,What the item is for in your project
-3D print Top,1	
+Cardboard Top,1	
 3D print Bottom,1	
 3D print Chain,1	
-3D print Plane,1	
+Small Plane,1	
 3D print Gear,2	
-USB C Cable,2	
+USB C Cable,1	
 Xiao RP2040,2
 5V Geared DC Motor,2	
 Photoresistor,1	
 White LED,1	
-Transistor,2
-DC Geared Motor,2
+Transistor 2N2222,2
 Resistor,2
-OLED Display,1	
+OLED Display,1
