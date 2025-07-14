@@ -1,8 +1,8 @@
 Item name,Quantity,What the item is for in your project
-3D print Bottom,1	
-3D print Chain,1	
-Small Plane,1	
-3D print Gear,2	
-USB C Cable,1	
-Xiao RP2040,1
-5V Geared DC Motor,2
+3D print Bottom,1, Hold everything together	
+3D print Chain,1, Pove the airplane around the track
+Small Plane,1, airplane
+3D print Gear,2, move the chains
+USB C Cable,1, provides power
+Xiao RP2040,1 power distributor
+5V Geared DC Motor,2, move the mechanism
