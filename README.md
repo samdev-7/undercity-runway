@@ -8,6 +8,10 @@
 
 https://youtu.be/R1ekrsAsHuE
 
+## Wiring Diagram
+
+![Wiring Diagram](hardware/schematic.png)
+
 ## Parts List
 
 | Item name           | Quantity | What the item is for in your project         |
