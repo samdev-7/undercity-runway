@@ -6,6 +6,8 @@
 
 [![Demo](https://img.youtube.com/vi/R1ekrsAsHuE/0.jpg)](https://youtu.be/R1ekrsAsHuE)
 
+https://youtu.be/R1ekrsAsHuE
+
 ## Parts List
 
 | Item name           | Quantity | What the item is for in your project         |
